@@ -1,0 +1,32 @@
+body{
+	background-image: url("images/desktop.svg");
+	background-position:fixed;
+	background-repeat: no-repeat;
+}
+.card{
+	margin-top: 50px;
+	border-radius: 20px;
+	box-shadow: 5px 1px 30px 10px #f2f2f2;
+
+}
+.card-img-top{
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+.card-body{
+	text-align: center;
+}
+
+
+/*
+
+.plan{
+	width: auto;
+	height: 65px;
+	border:1px solid #f2f2f2;
+	border-radius: 5px;
+	background-color: #f2f2f2;
+}
+.plan img{
+	margin: auto;
+}*/
